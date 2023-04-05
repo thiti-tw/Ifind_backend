@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "hello-world"
+		},
+		{
+			"path": "rest-demo"
+		},
+		{
+			"path": "dbconn"
+		}
+	],
+	"settings": {}
+}
